@@ -1,0 +1,15 @@
+//DEBUT - description... a supprimer du fichier a utiliser...
+#format ("trigger";"answer1","answer2","ans...";Boolean(true if there is action);Action)...
+#
+#
+//FIN
+sava;bien et vous, oui et toi,trai bien merçi;false;none
+qui es-tu;Je suis une intelligence artificielle nommer Jarvisse !,une I A developper par David DILO;false;none
+wake;je suis de retour;false;none
+sleep;je vais faire un tour;false;none
+system;quelle heure est-il
+system;quel jour sommes nous
+Quel age as tu;l'age de mets circuits integrer;false;none
+Jarvis;Oui messieu, je suis la, qu'y a til;false;none
+Merci;de rien,je vous en pri;false;none
+system;quel temps fait til
